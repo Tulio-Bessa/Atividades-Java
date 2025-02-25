@@ -9,7 +9,7 @@ public class Ex03 {
         int C;
         int D;
         
-
+        System.out.println("Digite o valor de A, B, C e D: ");
         A = sc.nextInt();
         B = sc.nextInt();
         C = sc.nextInt();
